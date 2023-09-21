@@ -1,4 +1,5 @@
 # Frontend Mentor - Age calculator app
+Live server: https://incomparable-pastelito-9694b6.netlify.app/
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
 
